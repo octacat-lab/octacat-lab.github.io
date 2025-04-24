@@ -1,2 +1,2 @@
-# octocat.github.io
+# About
 My scientific journey
